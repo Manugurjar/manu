@@ -68,7 +68,7 @@
 
 ## Repl
 
-[![Run on Repl.it](https://replit.com/badge/github/LEGEND-AI/LEGENDBOT)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py)
+[![Run on Repl.it](https://replit.com/badge/github/manugurjar/LEGENDBOT)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py)
 
 - To Get Details Of StringSession Follow Step: 
 - Go To Telegram And Search @Legend_SessionGeneratorBot
